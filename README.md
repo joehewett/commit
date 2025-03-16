@@ -16,10 +16,10 @@ Commit is designed to streamline the Git commit process by:
 
 ```bash
 # Clone the repository
-git clone https://github.com/asteroidai/devtools.git
+git clone https://github.com/joehewett/commit.git
 
 # Navigate to the commit directory
-cd devtools/commit
+cd commit
 
 # Install globally
 go install
