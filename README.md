@@ -1,6 +1,6 @@
 # Commit
 
-A CLI tool that uses Claude AI to generate conventional commit messages from your staged changes.
+A tiny CLI tool that uses Claude to generate conventional commit messages from your staged changes. Written in Go <3
 
 ![example](./example.png)
 
