@@ -2,6 +2,8 @@
 
 A CLI tool that uses Claude AI to generate conventional commit messages from your staged changes.
 
+![example](./example.png)
+
 ## Overview
 
 Commit is designed to streamline the Git commit process by:
